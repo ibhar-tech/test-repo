@@ -2,5 +2,4 @@
 
 edit file from github directly
 we will use pull now
-
-from login
+from logout
